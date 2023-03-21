@@ -3,6 +3,7 @@ package level1;
 import java.util.Scanner;
 
 public class Main {
+	// 수정테스트
 
 	public static void main(String[] args) {
 		int a = 0, b = 0;
